@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom';
+
 const Hero = ({
   title = 'Become a Full Stack Developer',
   subtitle = 'Find the Developer job that fits your skill set',
@@ -10,12 +12,12 @@ const Hero = ({
             {title}
           </h1>
           <p className='my-4 text-xl text-[#F0F8FF]'>{subtitle}</p>
-          <a
-            href="/jobs"
+          <Link
+            to="/jobs"
             className='mt-8 inline-block bg-[#34495E] text-white px-8 py-3 text-lg font-medium rounded-md hover:bg-[#000000] hover:text-white transition-colors duration-300'
           >
             Browse Jobs
-          </a>
+          </Link>
         </div>
       </div>
     </section>
