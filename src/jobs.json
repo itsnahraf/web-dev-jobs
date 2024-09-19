@@ -1,0 +1,256 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
+      "location": "Boston, MA",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Front-End Engineer (React & Redux)",
+      "type": "Full-Time",
+      "location": "Miami, FL",
+      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@loremipsum.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "3",
+      "title": "React.js Dev",
+      "type": "Full-Time",
+      "location": "Brooklyn, NY",
+      "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
+        "contactEmail": "contact@dolorsitamet.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "4",
+      "title": "React Front-End Developer",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time Front-End Developer in beautiful Pheonix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
+      "location": "Pheonix, AZ",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+        "contactEmail": "contact@adipisicingelit.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Full Stack React Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Atlanta, GA. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
+      "location": "Atlanta, GA",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+        "contactEmail": "contact@consecteturadipisicing.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "6",
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
+      "location": "Portland, OR",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "193b",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "location": "Islamabad, Pakistan",
+      "description": "We are looking for a Senior React Developer to lead our team in creating highly responsive web applications. The ideal candidate should have strong experience with JavaScript, React.js, and TypeScript.",
+      "salary": "$100K - 125K",
+      "company": {
+        "name": "Tech Solutions",
+        "description": "Tech Solutions is a leading IT company specializing in cutting-edge web applications.",
+        "contactEmail": "jobs@techsolutions.com",
+        "contactPhone": "555-123-4567"
+      }
+    },
+    {
+      "id": "8e8f",
+      "title": "Front-End Developer Intern",
+      "type": "Internship",
+      "location": "Remote",
+      "description": "Seeking a Front-End Developer intern with knowledge of HTML, CSS, and JavaScript. You will assist in building responsive websites under the guidance of senior developers.",
+      "salary": "Under $50K",
+      "company": {
+        "name": "CodeCraft",
+        "description": "CodeCraft is a fast-growing software company focused on web development for startups.\n",
+        "contactEmail": "hr@codecraft.com",
+        "contactPhone": "555-789-1234"
+      }
+    },
+    {
+      "id": "89ff",
+      "title": "Full Stack Developer (React.js, Node.js)",
+      "type": "Remote",
+      "location": "Remote",
+      "description": "We're hiring a Full Stack Developer (React.js and Node.js) to join our remote team. Work on exciting projects using modern JavaScript frameworks.",
+      "salary": "$125K - 150K",
+      "company": {
+        "name": "Digital Innovators",
+        "description": "Digital Innovators creates cutting-edge web platforms for enterprises.",
+        "contactEmail": "careers@digitalinnovators.com",
+        "contactPhone": "555-456-7890"
+      }
+    },
+    {
+      "id": "744d",
+      "title": "WordPress Developer",
+      "type": "Part-Time",
+      "location": "Rawalpindi, Pakistan",
+      "description": "Hiring a WordPress Developer to maintain and update client websites. Experience with WordPress themes, plugins, and PHP is required.",
+      "salary": "$50K - 60K",
+      "company": {
+        "name": "WebXpert",
+        "description": "WebXpert offers web design and development services to businesses worldwide.\n",
+        "contactEmail": "info@webxpert.com",
+        "contactPhone": "555-876-5432"
+      }
+    },
+    {
+      "id": "52f8",
+      "title": "Full Stack Developer (Laravel, Vue.js)",
+      "type": "Full-Time",
+      "location": "Peshawar, Pakistan",
+      "description": "Full Stack Developer needed for building scalable web applications using Laravel and Vue.js. Proficiency in PHP, MySQL, and Vue.js is required.\n",
+      "salary": "$80K - 90K",
+      "company": {
+        "name": " DevTech",
+        "description": "DevTech is a software development company specializing in web solutions for enterprises.\n",
+        "contactEmail": "careers@devtech.com",
+        "contactPhone": "555-321-7654"
+      }
+    },
+    {
+      "id": "0321",
+      "title": "React.js Development Intern",
+      "type": "Internship",
+      "location": "Islamabad, Pakistan",
+      "description": "Web Developer intern with knowledge of JavaScript and React.js. You'll work on building dynamic user interfaces.",
+      "salary": "Under $50K",
+      "company": {
+        "name": "StartUp Hub",
+        "description": "StartUp Hub provides tech services to early-stage companies.\n",
+        "contactEmail": "intern@startuphub.com",
+        "contactPhone": "555-654-3210"
+      }
+    },
+    {
+      "id": "cb54",
+      "title": "Senior Laravel Developer",
+      "type": "Remote",
+      "location": "Rawalpindi, Pakistan",
+      "description": "Senior Laravel Developer needed to maintain and extend our web platform. Proficiency in Laravel, MySQL, and REST APIs required.",
+      "salary": "$125K - 150K",
+      "company": {
+        "name": "CloudVibe",
+        "description": "CloudVibe delivers cloud-based solutions to clients globally",
+        "contactEmail": "hr@cloudvibe.com",
+        "contactPhone": "555-999-8765"
+      }
+    },
+    {
+      "id": "f63a",
+      "title": "Front-End Developer (HTML, CSS, Bootstrap)",
+      "type": "Part-Time",
+      "location": "Quetta, Pakistan",
+      "description": "Looking for a Front-End Developer to help improve our website. Experience in HTML, CSS, and Bootstrap is required.",
+      "salary": "Under $50K",
+      "company": {
+        "name": "QuickDesigns",
+        "description": "QuickDesigns is a creative agency specializing in digital design and web development.\n",
+        "contactEmail": "jobs@quickdesigns.com",
+        "contactPhone": "555-741-8529"
+      }
+    },
+    {
+      "id": "6274",
+      "title": "WordPress Developer (E-Commerce)",
+      "type": "Full-Time",
+      "location": "karachi, Pakistan",
+      "description": "WordPress Developer needed to build and maintain websites for e-commerce clients. Knowledge of WooCommerce is a plus.",
+      "salary": "$70K - 80K",
+      "company": {
+        "name": "CommercePro",
+        "description": "CommercePro provides digital marketing and web development services to online retailers.\n",
+        "contactEmail": "jobs@commercepro.com",
+        "contactPhone": "555-987-6543"
+      }
+    },
+    {
+      "id": "500c",
+      "title": "Software Development Intern (Node.js, MongoDB)",
+      "type": "Internship",
+      "location": "Remote",
+      "description": "Software Development intern with a focus on back-end technologies. You will assist with building API services using Node.js and MongoDB.",
+      "salary": "Under $50K",
+      "company": {
+        "name": "TechHub",
+        "description": "TechHub helps businesses build and deploy scalable applications.",
+        "contactEmail": "careers@techhub.com",
+        "contactPhone": "555-963-8527"
+      }
+    },
+    {
+      "id": "3a7c",
+      "title": "Senior React.js Developer",
+      "type": "Full-Time",
+      "location": "Lahore, Paakistan",
+      "description": "Hiring a Senior React.js Developer to lead front-end development for a SaaS platform. Strong knowledge of React.js and Redux is required.",
+      "salary": "$90K - 100K",
+      "company": {
+        "name": "SaaS World",
+        "description": "SaaS World provides software-as-a-service solutions to clients globally.",
+        "contactEmail": "careers@saasworld.com",
+        "contactPhone": "555-852-9631"
+      }
+    },
+    {
+      "id": "0153",
+      "title": "PHP Developer (Laravel)",
+      "type": "Part-Time",
+      "location": "Remote",
+      "description": "PHP Developer needed to assist in maintaining a web platform built with Laravel. Familiarity with REST APIs is a plus.",
+      "salary": "$70K - 80K",
+      "company": {
+        "name": "API Hub",
+        "description": "API Hub specializes in building API-driven platforms for businesses.\n",
+        "contactEmail": "jobs@apihub.com",
+        "contactPhone": "555-147-2583"
+      }
+    }
+  ]
+}
